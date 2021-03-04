@@ -392,7 +392,7 @@ def buildNHLNews():
 
 
 def buildNews():
-    makeDirectoryToday()
+    #makeDirectoryToday()
 
     buildNBANews()
     buildMLBNews()
